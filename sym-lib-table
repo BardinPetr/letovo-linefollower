@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name linefollower-rescue)(type Legacy)(uri ${KIPRJMOD}/linefollower-rescue.lib)(options "")(descr ""))
+  (lib (name MiscLibrary)(type Legacy)(uri /projects/linefollower/MiscLibrary.lib)(options "")(descr ""))
+)

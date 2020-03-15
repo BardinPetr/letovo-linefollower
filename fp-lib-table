@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name 3d)(type KiCad)(uri /projects/libs)(options "")(descr ""))
+  (lib (name linefollower)(type KiCad)(uri /projects/linefollower)(options "")(descr ""))
+  (lib (name bt-hc-05)(type Legacy)(uri /projects/libs/footprints/bt-hc-05.mod)(options "")(descr ""))
+)

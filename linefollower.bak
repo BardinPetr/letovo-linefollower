@@ -2871,9 +2871,9 @@ F 3 "" H 5700 10250 50  0001 C CNN
 	1    5700 10250
 	0    1    1    0   
 $EndComp
-Text Label 5525 10150 2    50   ~ 0
+Text Label 5150 10150 0    50   ~ 0
 UART6_RX
-Text Label 5525 10050 2    50   ~ 0
+Text Label 5150 10050 0    50   ~ 0
 UART6_TX
 Wire Wire Line
 	5150 10150 5700 10150

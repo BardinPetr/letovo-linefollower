@@ -3262,7 +3262,7 @@ U 1 1 5EE94A0A
 P 5150 1800
 F 0 "J16" H 5175 2525 50  0000 C CNN
 F 1 "Conn_linesens_Male" H 5475 2425 50  0000 C CNN
-F 2 "Connector_PinSocket_2.54mm:PinSocket_1x11_P2.54mm_Horizontal" H 5150 1800 50  0001 C CNN
+F 2 "linefollower:SolderedPad_1x11_P2.54" H 5150 1800 50  0001 C CNN
 F 3 "~" H 5150 1800 50  0001 C CNN
 	1    5150 1800
 	1    0    0    -1  
